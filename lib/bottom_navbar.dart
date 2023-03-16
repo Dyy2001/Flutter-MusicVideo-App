@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:task_music_video/pages/music.dart';
 import 'package:task_music_video/pages/video.dart';
 
